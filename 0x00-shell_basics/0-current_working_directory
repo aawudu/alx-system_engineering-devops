@@ -1,8 +1,2 @@
 #!/bin/bash
-echo $1
-
-complete_path=$(realpath $1)
-echo $complete_path
-
-direct_path=$(dirname $complete_path)
-echo $direct_path
+pwd
