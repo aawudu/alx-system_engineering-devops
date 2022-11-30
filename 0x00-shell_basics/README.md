@@ -3,3 +3,5 @@ Path-directory command: Write a script that prints the absolute path name of the
 1-listit: Display contents list of current directory   
 
 Script that changes working directory to home
+
+Display directory contents long list
